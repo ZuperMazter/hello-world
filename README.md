@@ -1,5 +1,5 @@
 # hello-world
-for fun in life print smile
+# for fun in life print smile
 
 d = {'Zuper': 'Hero', 'Mazter': 'Coder', 'SSJ' : 'Super Semi Junior'}
 
